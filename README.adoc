@@ -10,4 +10,4 @@ Le système gère la diffusion des émissions (appelées programmes lorsqu'elles
 
 ## Collaboration
 
-Ce projet a été réalisé en collaboration avec mes collègues, https://github.com/machterMassi06[MACHTER Massinissa] et **HATEM Nadir**, dans le cadre de notre licence 3 **(2024/2025)** en cours de BD avancée.
+Ce projet a été réalisé en collaboration avec mes collègues, https://github.com/machterMassi06[MACHTER Massinissa] et **HATEM Nadir**, dans le cadre de notre licence 3 **(2024/2025)** en cours de Base de Données avancée.
